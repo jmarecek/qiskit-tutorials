@@ -26,3 +26,6 @@ qiskit/basics/Qconfig_IBMQ_experience_public.py
 .spyderproject
 .spyproject
 
+qiskit/basics/Qconfig_IBMQ_experience_staging.py
+
+qiskit/basics/Qconfig_IBMQ_network-dev.py
